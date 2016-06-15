@@ -1,0 +1,5 @@
+switch(true) {
+	case 1 : wija =9; break;
+	case 2 : semoga_jadi_baik=0 ; break;
+	default : a=1; 
+}
